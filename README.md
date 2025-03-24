@@ -1,2 +1,8 @@
-# MediSched
-A Healthcare Appointment Booking System allows patients to schedule, reschedule, or cancel doctor appointments seamlessly. It provides real-time availability, appointment reminders and patient record integration. The system helps healthcare providers manage their schedules efficiently, reducing wait times and improving patient experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
